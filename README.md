@@ -1,2 +1,3 @@
 # WebCrawler
-WebCrawler class which recursively crawl sites.
+Thread safe WebCrawler class which recursively crawl sites.
+* The WebCrawler class implements the NewCrawler interface.
